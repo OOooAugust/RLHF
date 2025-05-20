@@ -1,0 +1,12 @@
+# Ignore everything by default
+*
+
+# But do not ignore .gitignore and .ipynb/.py files
+!.gitignore
+!*.py
+!*.ipynb
+
+# If you want to keep files inside subfolders too
+!*/        # allow folder traversal
+!**/*.py
+!**/*.ipynb
