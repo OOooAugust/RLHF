@@ -10,3 +10,4 @@
 !*/        # allow folder traversal
 !**/*.py
 !**/*.ipynb
+!codes/
