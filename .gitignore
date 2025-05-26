@@ -12,3 +12,4 @@
 !**/*.ipynb
 !codes/
 trl/
+transformers/
