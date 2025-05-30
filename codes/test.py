@@ -2,8 +2,6 @@ import torch
 from transformers import AutoModelForCausalLM, AutoTokenizer, AutoModelForSequenceClassification
 from datasets import load_dataset
 
-#tokenize all batch at the same time, use map and in cpu
-# for model generation, better in gpu using dataloader to manage batch 
 # use fp16 instead of fp32, but what's the difference?
 
 
