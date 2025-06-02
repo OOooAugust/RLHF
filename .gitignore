@@ -11,5 +11,7 @@
 !**/*.py
 !**/*.ipynb
 !codes/
+!DPO/
+!reference/
 trl/
 transformers/
