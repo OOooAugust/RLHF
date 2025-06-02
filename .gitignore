@@ -10,8 +10,6 @@
 !*/        # allow folder traversal
 !**/*.py
 !**/*.ipynb
-!codes/
-!DPO/
-!reference/
+!codes/*
 trl/
 transformers/
